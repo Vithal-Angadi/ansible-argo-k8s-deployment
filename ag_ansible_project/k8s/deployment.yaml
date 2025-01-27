@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: ansible-play-run
-        image: vithalangadidocker/my-ansible
+        image: vithalangadidocker/my-ansible-test
       #   env:
       #   - name: KUBECONFIG
       #     value: "/kubeconfig/config"
